@@ -6,6 +6,7 @@
 
 - 書籍発売前の執筆中の内容をプレビュー・フィードバック目的で公開しています。
 - 書籍のリリース後は本リポジトリの内容のアップデートは停止し、このリポジトリの内容も非表示にする可能性があります。ご利用の際には予めご了承ください。
+- お値段298円予定。
 
 # 閲覧の仕方
 
@@ -21,3 +22,10 @@
 https://github.com/simon-ritchie/python-novice-book
 
 ※本リポジトリへのissueはお控えください。
+
+# 素材ライセンスなど
+
+書籍内にも記述していますが、表紙のデザインなどに以下のフリー素材を使わせていただております。
+
+- <a href="https://www.freepik.com/free-photos-vectors/background">Background vector created by starline - www.freepik.com</a>
+- [GLT-ごぬんね（アニメ「少女終末旅行」副題風フォント）](https://booth.pm/ja/items/687528)
